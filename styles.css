@@ -1,4 +1,4 @@
-@import url(https://fonts.google.com/specimen/Hanken+Grotesk);
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&display=swap');
 
 :root {
     /*Button Colors*/
@@ -20,7 +20,7 @@
     --Dark_gray_blue: hsl(224, 30%, 27%);
 
     /*Font*/
-    --Font-Family: "Hanken Grotesk";
+    --Font-Family: 'Hanken Grotesk', sans-serif;
 
     /*Font Size*/
     --Font-Size: 18px;
